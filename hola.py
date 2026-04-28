@@ -1,1 +1,1 @@
-print ("hola mundo")
+print ("Hola ITEC 2026")
